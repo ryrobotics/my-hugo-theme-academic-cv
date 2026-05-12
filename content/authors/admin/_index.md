@@ -47,7 +47,7 @@ education:
 social:
   # - icon: envelope
   #   icon_pack: fas
-  #   link: 'mailto:rywang@link.cuhk.edu.hk'
+  #   link: 'mailto:'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ScgZ2cYAAAAJ
@@ -70,6 +70,5 @@ email: 'wry0117@outlook.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a Lecturer in the Faculty of Engineering at The University of Hong Kong (HKU), where I work with our teaching team to design and coordinate active learning initiatives, including the flagship Engineering Challenges course. My focus is on advancing immersive, hands-on engineering education that brings together autonomous systems, intelligent robotics, and AI, empowering students to tackle real-world problems from concept to prototype.
+I am a Lecturer in the Faculty of Engineering at The University of Hong Kong (HKU), where I work within the faculty teaching team to design and deliver hands-on active learning initiatives. My focus is on advancing immersive, hands-on engineering education that brings together autonomous systems, intelligent robotics, and AI applications, empowering students to tackle real-world problems from concept to prototype.
 {style="text-align: justify;"}
