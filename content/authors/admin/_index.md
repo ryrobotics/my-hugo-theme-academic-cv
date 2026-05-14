@@ -26,9 +26,9 @@ bio: My research interests include multi-modal and collision resilient UAV desig
 
 # Interests to show in About widget
 interests:
-  - Engineering Education
-  - Robot System Design
-  - Control & Planning
+  - Aerial Robotics
+  - Planning & Control
+  - Robot Learning
 
 # Education to show in About widget
 education:
